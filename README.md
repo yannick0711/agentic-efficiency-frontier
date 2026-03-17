@@ -182,7 +182,7 @@ Best overall ROI: 55.0% F1 at $0.00052 with a 0.0% crash rate. The threshold δ 
 ## 📁 Project Structure
 
 ```
-agentic-blueprints/
+agentic-efficiency-frontier/
 ├── src_thesis/
 │   ├── __init__.py
 │   ├── agent_baseline.py           # Architecture 1: Single-shot RAG
@@ -224,8 +224,8 @@ agentic-blueprints/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yannick0711/agentic-blueprints.git
-cd agentic-blueprints
+git clone https://github.com/yannick0711/agentic-efficiency-frontier.git
+cd agentic-efficiency-frontier
 
 # 2. Create and activate virtual environment
 python -m venv venv
@@ -389,7 +389,7 @@ If you use this work in your research, please cite:
   year      = {2026},
   school    = {Humboldt-Universität zu Berlin},
   type      = {Master's Thesis},
-  note      = {Code: https://github.com/yannick0711/agentic-blueprints}
+  note      = {Code: https://github.com/yannick0711/agentic-efficiency-frontier}
 }
 ```
 
