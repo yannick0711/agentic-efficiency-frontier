@@ -1,0 +1,29 @@
+# --- Core / API ---
+openai==2.8.1
+qdrant-client==1.16.0
+ujson==5.11.0
+python-dotenv==1.2.1
+tenacity==9.1.2
+tiktoken==0.12.0
+
+# --- Data Loading ---
+datasets==4.4.1
+
+# --- Orchestration / Agents ---
+langchain==1.0.5
+langchain-core==1.0.4
+langchain-openai==1.0.3
+langchain-community==0.4.1
+langgraph==1.0.3
+langgraph-prebuilt==1.0.2
+pydantic==2.12.4
+typing-extensions==4.15.0
+
+# --- Evaluation & Utilities ---
+tqdm==4.67.1
+numpy==2.3.4
+pandas==2.3.3
+tabulate==0.9.0
+scipy==1.16.3
+matplotlib==3.10.7
+seaborn==0.13.2

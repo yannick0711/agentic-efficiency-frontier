@@ -1,0 +1,1688 @@
+[
+  {
+    "id": "5ae1e8575542997f29b3c19a",
+    "question": "Which has more species, Festuca or Dactylis?",
+    "answer": "Festuca",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Festuca",
+        "Dactylis"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ac3ac1855429939154138ab",
+    "question": "What are both Eleutherococcus and Amaryllis?",
+    "answer": "genus",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Eleutherococcus",
+        "Amaryllis"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a7563a45542996c70cfaeec",
+    "question": "What university employed the psychologist that inspired David McClelland's thinking on power??",
+    "answer": "Harvard University",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Need for power",
+        "Need for power",
+        "Henry Murray"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a7d41425542997cc2c4743b",
+    "question": "What type of plane is the four engine heavy bomber, first introduced in 1938 for the United States Army, which is hangared at Conroe North Houston Regional Airport?",
+    "answer": "American Boeing B-17 Flying Fortress",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Texas Raiders",
+        "Texas Raiders",
+        "Boeing B-17 Flying Fortress",
+        "Boeing B-17 Flying Fortress"
+      ],
+      "sent_id": [
+        0,
+        2,
+        0,
+        3
+      ]
+    }
+  },
+  {
+    "id": "5a8a4b9955429930ff3c0d88",
+    "question": "Who wrote the lyrics to the 2016/2017 Australian production that stars Gretel Scarlett as Kathy Selden?",
+    "answer": "Arthur Freed",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Gretel Scarlett",
+        "Singin' in the Rain (musical)"
+      ],
+      "sent_id": [
+        3,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab85a1155429934fafe6d7c",
+    "question": "Are both Rutgers University and Carnegie Mellon University located in America?",
+    "answer": "yes",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Rutgers University",
+        "Carnegie Mellon University"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a792ad055429907847277d1",
+    "question": "What 4-D film attraction at Walt Disney World is based off a 2004 computer-animated Christmas movie? ",
+    "answer": "Mickey's PhilharMagic",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Mickey's Twice Upon a Christmas",
+        "Mickey's PhilharMagic"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a77d65055429949eeb29f7b",
+    "question": "How many species of Hawaiian hibiscus do not have white flowers?",
+    "answer": "250",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Hibiscus waimeae",
+        "Hibiscus waimeae",
+        "Hawaiian hibiscus"
+      ],
+      "sent_id": [
+        3,
+        4,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a902e755542995651fb50de",
+    "question": "Shadi Attieh is often referred to as the Lebanese version of a footballer who plays for what Major League Soccer team?",
+    "answer": "Los Angeles Galaxy",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Shadi Attieh",
+        "Ashley Cole"
+      ],
+      "sent_id": [
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae382ee5542992e3233c430",
+    "question": "The Prussian General Carl von Clausewitz is associated with what type of realism?",
+    "answer": "Modern thinkers associated with classical realism are Carl von Clausewitz",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Classical realism (international relations)",
+        "Carl von Clausewitz"
+      ],
+      "sent_id": [
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a88a6975542994846c1cea4",
+    "question": "What was the nickname of Anthony Corallo, boss to \"Sal\" Avellino and head of the Lucchese mob family mob in New York?",
+    "answer": "Tony Ducks",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Salvatore Avellino",
+        "Anthony Corallo"
+      ],
+      "sent_id": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a75a4135542992d0ec05fcd",
+    "question": "The Woodvale Historic District was built buy a company headquartered where?",
+    "answer": "Rockhill Furnace, Pennsylvania",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Woodvale Historic District",
+        "Woodvale Historic District",
+        "East Broad Top Railroad and Coal Company"
+      ],
+      "sent_id": [
+        0,
+        3,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5abc553a554299700f9d7871",
+    "question": "Kyle Ezell is a professor at what School of Architecture building at Ohio State?",
+    "answer": "Knowlton Hall",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Kyle Ezell",
+        "Knowlton Hall"
+      ],
+      "sent_id": [
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a7b1a4a55429927d897bf3b",
+    "question": "What landmark event did Bill Miner achieve at Silverdale, British Columbia, coining the phrase \"Hands Up!\" in doing so?",
+    "answer": "Canada's first train robbery",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Silverdale, British Columbia",
+        "Bill Miner"
+      ],
+      "sent_id": [
+        3,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5a74524455429979e28828f6",
+    "question": "which star of Hwarang: The Poet Warrior Youth was born on November 16, 1991 ?",
+    "answer": "Park Hyung-Sik",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Hwarang: The Poet Warrior Youth",
+        "Park Hyung-sik"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae3dfb05542992e3233c490",
+    "question": "The 1991\u201392 NBA season included an Achilles tendon injury to which nine-time NBA All-Star?",
+    "answer": "Jacques Dominique Wilkins",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "1991\u201392 Atlanta Hawks season",
+        "Dominique Wilkins",
+        "Dominique Wilkins"
+      ],
+      "sent_id": [
+        3,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5ab70f79554299110f219aa9",
+    "question": "What is the nationality of this company that services MS Moby Dada?",
+    "answer": "Danish",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "MS Moby Dada",
+        "DFDS Seaways"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae537a855429960a22e0266",
+    "question": "\"Let's Get Ready to Rhumble\" is a 1994 song by a music duo from where?",
+    "answer": "Newcastle upon Tyne, England",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Let's Get Ready to Rhumble",
+        "Ant &amp; Dec"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8a547d55429970aeb70293",
+    "question": "Which magazine was published first, Woman's Day or The Lady?",
+    "answer": "The Lady",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Woman's Day",
+        "The Lady (magazine)",
+        "The Lady (magazine)"
+      ],
+      "sent_id": [
+        2,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a71419f5542994082a3e70d",
+    "question": "Riema Juhani Karppinen won the silver medal at what event held outside of Munich, Germany?",
+    "answer": "1981 World Rowing Championships",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Reima Karppinen",
+        "1981 World Rowing Championships"
+      ],
+      "sent_id": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a80870d5542992bc0c4a752",
+    "question": "Shaqtin' a Fool has included which television personality who worked for 8 yearst at ESPN?",
+    "answer": "Matthew Ward Winer",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Shaqtin' a Fool",
+        "Matt Winer",
+        "Matt Winer"
+      ],
+      "sent_id": [
+        4,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a80cddd554299260e20a169",
+    "question": "Multiple award-winning actor Gary Sinise appeared in The Stand in 1994 - a miniseries based on a novel and screenplay by which noted author?",
+    "answer": "Stephen King",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "The Stand (miniseries)",
+        "Gary Sinise"
+      ],
+      "sent_id": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a76f5b155429972597f1400",
+    "question": "What American composer born in 1937 pioneered minimal music?",
+    "answer": "Philip Morris Glass",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Steve Reich",
+        "Philip Glass"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ac562985542993e66e823ca",
+    "question": "Otterington railway station was on a 393 mi major railway that linked Edinburgh to what city?",
+    "answer": "London",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Otterington railway station",
+        "East Coast Main Line"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a83de04554299334474609f",
+    "question": "The second studio album by The D.O.C was named as a reference to Charles Manson's idea of a Beatles' song which was a product of McCartney's attempt to create what kind of sound?  ",
+    "answer": "as loud and dirty as possible",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Helter Skelter (album)",
+        "Helter Skelter (album)",
+        "Helter Skelter (song)",
+        "Helter Skelter (song)"
+      ],
+      "sent_id": [
+        0,
+        3,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5a7b63eb55429931da12ca7e",
+    "question": "What city does Paul Clyne and David Soares have in common?",
+    "answer": "New York",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Paul Clyne",
+        "David Soares"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab46f4e5542991751b4d770",
+    "question": "Who provided the source material for the 2015 Australian revenge comedy-drama film in which Rebecca Gibney featured? ",
+    "answer": "Rosalie Ham",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Rebecca Gibney",
+        "The Dressmaker (2015 film)"
+      ],
+      "sent_id": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a86ea445542994775f60780",
+    "question": "When was the female character that on June 9, 2015 was promoted to a series regular first introduced on \"Once Upon a Time\"?",
+    "answer": "the second half of the third season",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Once Upon a Time (season 5)",
+        "Zelena (Once Upon a Time)"
+      ],
+      "sent_id": [
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a7dbb605542997cc2c47486",
+    "question": "Many jack-in-the-boxes use an English nursery rhyme with a Roud Folk Song Index number of what?",
+    "answer": "5249",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Jack-in-the-box",
+        "Pop Goes the Weasel"
+      ],
+      "sent_id": [
+        4,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5ae24abc5542994d89d5b3c3",
+    "question": "Where is the company that owns thanKing Horse pub restaurant chain based ?",
+    "answer": "Bury St Edmunds,",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Hungry Horse",
+        "Greene King"
+      ],
+      "sent_id": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a81cb2c5542990a1d231ec4",
+    "question": "What award does Crystal Palace F.C. present, first won by John McCormick and most recently by Wilfried Zaha?",
+    "answer": "Player of the Year",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Crystal Palace F.C. Player of the Year",
+        "Crystal Palace F.C. Player of the Year",
+        "Crystal Palace F.C. Player of the Year",
+        "Wilfried Zaha"
+      ],
+      "sent_id": [
+        0,
+        1,
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a74670855429929fddd840d",
+    "question": "Which CNN journalist and two-time Pulitzer winner inspired the Half the Sky Movement?",
+    "answer": "Nicholas Kristof",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Half the Sky movement",
+        "Nicholas Kristof",
+        "Nicholas Kristof"
+      ],
+      "sent_id": [
+        0,
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5ac45cfd554299076e296db5",
+    "question": "How many years in prison did the Norfolk farmer defended by Anthony Scrivener serve?",
+    "answer": "three",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Anthony Scrivener",
+        "Tony Martin (farmer)"
+      ],
+      "sent_id": [
+        1,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5ae4d2a55542990ba0bbb161",
+    "question": "Giselle Cossard was known as Mother Giselle of what type of diety?",
+    "answer": "major water deity",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Giselle Cossard",
+        "Giselle Cossard",
+        "Yemoja"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5abbfbcf55429965836003cf",
+    "question": "James Leal Greenleaf worked on a monument located where? ",
+    "answer": "National Mall",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "James Leal Greenleaf",
+        "Lincoln Memorial"
+      ],
+      "sent_id": [
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a8f45ca5542997ba9cb320e",
+    "question": "What type of film are both \"500 Years Later\" and \"Manson\"?",
+    "answer": "documentary",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "500 Years Later",
+        "Manson (film)"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a84cb255542991dd0999dfa",
+    "question": "Which singer of the Bee Gees sung a middle part of a song in which the majority was sung by Barry Gibb?",
+    "answer": "Robin Gibb",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "I Laugh in Your Face",
+        "I Laugh in Your Face",
+        "Robin Gibb"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a81f10055429903bc27ba06",
+    "question": "Sum 41 and Passion Pit have what in common?",
+    "answer": "Passion Pit is an American indietronica band",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Passion Pit",
+        "Sum 41"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8fa4a5554299458435d6a3",
+    "question": "What is name of the business unit led by Tina Sharkey at a web portal which is originally known as America Online?",
+    "answer": "Sesame Street",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Tina Sharkey",
+        "Tina Sharkey",
+        "AOL"
+      ],
+      "sent_id": [
+        0,
+        3,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a72a6d855429901807daf27",
+    "question": "Of four Harry S. Truman Supreme Court candidates, who was the 53rd United States Secretary of the Treasury and the 13th Chief Justice of the United States?",
+    "answer": "Fred M. Vinson",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Harry S. Truman Supreme Court candidates",
+        "Fred M. Vinson"
+      ],
+      "sent_id": [
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5adf17f95542995ec70e8f6c",
+    "question": "In what country was the actor Chris Hemsworth, one of the stars in the motion picture Thor: The Dark World, born?",
+    "answer": "Australian",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Thor: The Dark World",
+        "Thor: The Dark World",
+        "Chris Hemsworth"
+      ],
+      "sent_id": [
+        0,
+        3,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a81b92a5542995ce29dcc52",
+    "question": "Which college is located in the United States, University of Delaware of University of Debrecen?",
+    "answer": "University of Delaware",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "University of Delaware",
+        "University of Debrecen"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae249925542994d89d5b3c1",
+    "question": "Which player Richard Gasquet or Jim Pugh  has won more mixed double Grand Slam titles ?",
+    "answer": "Jim Pugh",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Richard Gasquet",
+        "Jim Pugh",
+        "Jim Pugh"
+      ],
+      "sent_id": [
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5abbf43d5542993f40c73c2f",
+    "question": "Which band The Innocence Mission or Starflyer 59 was formed first ?",
+    "answer": "The Innocence Mission",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "The Innocence Mission",
+        "The Innocence Mission",
+        "Starflyer 59"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8bae135542996e8ac889b6",
+    "question": "Nathan Bridger was a character played by which actor and amateur boxer?",
+    "answer": "Roy Richard Scheider",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Nathan Bridger",
+        "Roy Scheider"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5abc7bf5554299114383a129",
+    "question": "Between The Goldeneye and Monkey Gland, which cocktail requires more ingredients?",
+    "answer": "Monkey Gland",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "The Goldeneye",
+        "Monkey Gland"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a7e43c9554299495941995a",
+    "question": "How many Studio albums did the group that released the debut album The Cactus Al/Bum release in their initial career?",
+    "answer": "two studio albums",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "The Cactus Album",
+        "3rd Bass"
+      ],
+      "sent_id": [
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5ae0aabc55429945ae9593fe",
+    "question": "Veljko \u010cubrilovi\u0107 was involved in the assassination of which heir to the Austro-Hungarian throne?",
+    "answer": "Franz Ferdinand Carl Ludwig Joseph Maria",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Veljko \u010cubrilovi\u0107",
+        "Archduke Franz Ferdinand of Austria"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab78a445542992aa3b8c826",
+    "question": "How many records did the singer who sang \"Four Seasons of Love\" sell worldwide?",
+    "answer": "140 million",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Four Seasons of Love",
+        "Donna Summer"
+      ],
+      "sent_id": [
+        0,
+        3
+      ]
+    }
+  },
+  {
+    "id": "5a8e1577554299068b959e54",
+    "question": "What professionn does Stanley Kwan and Ken Hughes have in common?",
+    "answer": "director",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Stanley Kwan",
+        "Ken Hughes"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8b397955429971feec4674",
+    "question": "Are both John Corabi and David Byrne musicians?",
+    "answer": "yes",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "John Corabi",
+        "David Byrne"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8f608d5542992414482a94",
+    "question": "The Pollution Prevention Act of 1990 expanded a publicly available or private database?",
+    "answer": "publicly available",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Pollution Prevention Act of 1990",
+        "Pollution Prevention Act of 1990",
+        "Toxics Release Inventory"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ac4392e5542997ea680ca32",
+    "question": "Were Enrique Carreras and Lionel Ngakane both filmakers during the 20th century? ",
+    "answer": "yes",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Enrique Carreras",
+        "Lionel Ngakane"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab6973f554299110f219a25",
+    "question": "What monthly magazine, published by ASIS International, includes articles on topics of computer security?",
+    "answer": "Security Management is the monthly magazine of ASIS International",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Security Management (magazine)",
+        "Computer security"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae446fc5542995ad6573d24",
+    "question": "What Mexican singer released the song Todos Me Miran?",
+    "answer": "Gloria Trevi",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Todos Me Miran",
+        "Gloria Trevi"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a77152355429966f1a36c2e",
+    "question": "What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?",
+    "answer": "821",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "What Are Little Girls Made Of?",
+        "What Are Little Boys Made Of?",
+        "What Are Little Boys Made Of?"
+      ],
+      "sent_id": [
+        4,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5abe239355429976d4830a7d",
+    "question": "Jamie Harris is best known for his role as The Hook-Handed Man in a movie directed by who ?",
+    "answer": "Brad Silberling",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Jamie Harris (actor)",
+        "Jamie Harris (actor)",
+        "Lemony Snicket's A Series of Unfortunate Events"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a7c0dab5542997c3ec972d2",
+    "question": "Los Angeles Historic-Cultural Monument (No. 139) hosted an event by what organization on Oct 12, 1991?",
+    "answer": "IFBB professional bodybuilding",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "1991 Ms. Olympia",
+        "Shrine Auditorium"
+      ],
+      "sent_id": [
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5a7736d85542994aec3b722b",
+    "question": "Which film director is younger, Manoel de Oliveira or Alfonso Cuar\u00f3n?",
+    "answer": "Alfonso Cuar\u00f3n",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Manoel de Oliveira",
+        "Alfonso Cuar\u00f3n"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ac50dd05542994611c8b343",
+    "question": "Phil Lloyd played Tim Mathieson, the partner of this prime minister who was the 27th Prime Minister of Australia from 2010 to when",
+    "answer": "2013",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Phil Lloyd (actor)",
+        "Julia Gillard"
+      ],
+      "sent_id": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a89e95c5542992e4fca8474",
+    "question": "Javier Frana and Thomaz Koch both share what occupation?",
+    "answer": "tennis player",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Javier Frana",
+        "Thomaz Koch"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae198bf5542997b2ef7d20d",
+    "question": "Were Chad Gray and Dickie Peterson both singers?",
+    "answer": "yes",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Chad Gray",
+        "Dickie Peterson"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a88a5645542997e5c09a679",
+    "question": "Which was published first, Take It Easy or Personal Preference?",
+    "answer": "Take It Easy",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Take It Easy (game)",
+        "Take It Easy (game)",
+        "Personal Preference"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8485fa5542992a431d1a41",
+    "question": "Who was the brother of the architect of Hook and Ladder No. 4 located in Albany, NY?",
+    "answer": "Cuyler Reynolds",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Hook and Ladder No. 4",
+        "Marcus T. Reynolds"
+      ],
+      "sent_id": [
+        0,
+        5
+      ]
+    }
+  },
+  {
+    "id": "5ab801da5542990e739ec7c9",
+    "question": "Singer Eddie Fisher, who produced the album \"I'm in the Mood for Love\" in 1952, later had a scandalous affair with what actress?",
+    "answer": "Elizabeth Taylor",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "I'm in the Mood for Love (Eddie Fisher album)",
+        "Eddie Fisher (singer)",
+        "Eddie Fisher (singer)"
+      ],
+      "sent_id": [
+        0,
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": "5ab2d28b55429916697740ee",
+    "question": "Oprah Winfrey narrated a documentary about this athlete who rode 400 miles across his country to bring attention to the plight of the disabled in the country?",
+    "answer": "Emmanuel Ofosu Yeboah",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Emmanuel's Gift",
+        "Emmanuel Ofosu Yeboah",
+        "Emmanuel Ofosu Yeboah"
+      ],
+      "sent_id": [
+        1,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5a8838885542994846c1ce39",
+    "question": "Which 18th-century canal was longer, the Sandy and Beaver Canal in Ohio or New Jersey's Morris Canal?",
+    "answer": "Morris Canal",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Sandy and Beaver Canal",
+        "Morris Canal"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab5e2645542992aa134a3c5",
+    "question": " Thomas Anthony Jankiewicz was best known for penning a film staring an actress who played Fiona Bowa on what NBC sitcom?",
+    "answer": "About a Boy",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Tom Jankiewicz",
+        "Tom Jankiewicz",
+        "Minnie Driver",
+        "Minnie Driver"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0,
+        3
+      ]
+    }
+  },
+  {
+    "id": "5ab4789e5542990594ba9c29",
+    "question": "Q: What 1965-born field director directed the 2002 Indian comedy horror film \"Makdee\" (\"Spider\", in English)?",
+    "answer": "Vishal Bhardwaj",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Makdee",
+        "Vishal Bhardwaj"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab438395542990594ba9bb9",
+    "question": "Who was one of the stars who played the two oldest children in a TV series which had a 2010 movie based on it?",
+    "answer": "Michael Seater",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Vacation with Derek",
+        "Life with Derek",
+        "Life with Derek"
+      ],
+      "sent_id": [
+        0,
+        0,
+        3
+      ]
+    }
+  },
+  {
+    "id": "5abd82dc5542993062266cb6",
+    "question": "Why did the CEO of the football team based in Denver, Colorado step down in 2014?",
+    "answer": "due to the onset and progression of Alzheimer's disease",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Denver Broncos",
+        "Pat Bowlen"
+      ],
+      "sent_id": [
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5abee75f5542993fe9a41d8e",
+    "question": "Channel 8 has broadcast which American sports series that premiered in 1973?",
+    "answer": "HBO World Championship Boxing",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Channel 8 (Thailand)",
+        "HBO World Championship Boxing"
+      ],
+      "sent_id": [
+        3,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a7746cf5542994aec3b7263",
+    "question": "St Mary's School in Pune, India was run for over 100 years by what organization started by the Reverend William John Butler?",
+    "answer": "The Community of St Mary the Virgin (CSMV)",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "St. Mary's School, Pune",
+        "St. Mary's School, Pune",
+        "Community of St Mary the Virgin",
+        "Community of St Mary the Virgin"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5abc3d505542993a06baf8a7",
+    "question": "Which is founded by a president, University of Washington or University of Virginia?",
+    "answer": "University of Virginia",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "University of Washington",
+        "University of Virginia",
+        "University of Virginia"
+      ],
+      "sent_id": [
+        0,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5ae00b9f554299025d62a3c3",
+    "question": "What former Los Angeles Lakers majority owner is the father of Jeanie Marie Buss?",
+    "answer": "Gerald Hatten Buss",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Jeanie Buss",
+        "Jerry Buss",
+        "Jerry Buss"
+      ],
+      "sent_id": [
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5ae3a3835542990afbd1e19c",
+    "question": "The driver know for doing backflips off his car lost to which driver in the 2009 NASCAR Nationwide Series?",
+    "answer": "Kyle Busch",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "2009 NASCAR Nationwide Series",
+        "2009 NASCAR Nationwide Series",
+        "Carl Edwards"
+      ],
+      "sent_id": [
+        2,
+        3,
+        4
+      ]
+    }
+  },
+  {
+    "id": "5a7a4a1d5542990198eaf108",
+    "question": "Of the two men who ousted Mussolini which one was born in 1871?",
+    "answer": "Marshal Pietro Badoglio",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Italian Co-belligerent Navy",
+        "Italian Co-belligerent Navy",
+        "Pietro Badoglio"
+      ],
+      "sent_id": [
+        0,
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab29c24554299449642c932",
+    "question": "Are Giuseppe Verdi and Ambroise Thomas both Opera composers ?",
+    "answer": "yes",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Giuseppe Verdi",
+        "Ambroise Thomas"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5adfd22255429906c02daa4f",
+    "question": "which actress was a notable practitioner at the white bear theatre and is also known for playing the role of melanie owen in the BBC one soap opera \"eatenders\"?",
+    "answer": "Tamzin Outhwaite",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "White Bear Theatre",
+        "Tamzin Outhwaite"
+      ],
+      "sent_id": [
+        2,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a8ba07d5542996e8ac88985",
+    "question": "What event in 1920 was established by the director of the play \"The Miracle?\"",
+    "answer": "Salzburg Festival",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "The Miracle (1959 film)",
+        "Max Reinhardt",
+        "Max Reinhardt"
+      ],
+      "sent_id": [
+        1,
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5ab5b0f75542992aa134a38c",
+    "question": "What episode did Mona Penelope Simpson  on the animated show \"The Simpsons\"die?",
+    "answer": "\"Mona Leaves-a\"",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "I, (Annoyed Grunt)-bot",
+        "Mona Simpson (The Simpsons)"
+      ],
+      "sent_id": [
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5adc2e3d554299438c868d6b",
+    "question": "Jes\u00fas Dautt is a Mexican professional footballer who is on loan from a club founded on what date?",
+    "answer": "28 June 1945",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Jes\u00fas Dautt",
+        "C.F. Monterrey",
+        "C.F. Monterrey"
+      ],
+      "sent_id": [
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a8c7232554299585d9e36a6",
+    "question": "What is a Southern European island country that was home to an airline pilot who flew the CASA-212-200 Aviocar before retiring in 2008 for health reasons? ",
+    "answer": "Malta",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Mark Vella Tomlin",
+        "Mark Vella Tomlin",
+        "Malta"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae095f055429924de1b7103",
+    "question": "Who has more scope of profession, B. Reeves Eason or Albert S. Rogell?",
+    "answer": "B. Reeves Eason",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "B. Reeves Eason",
+        "Albert S. Rogell"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5adfb10855429942ec259af9",
+    "question": "Raiffeisen Zentralbank is the central institution of one a group of co-operative banks in Austria. What is the name of the other group?",
+    "answer": "Austrian Volksbanks",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Raiffeisen Zentralbank",
+        "Raiffeisen Bankengruppe (Austria)"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab682f85542995eadef001f",
+    "question": "Old Bushmills Distillery was in the process of transitioning from the ownership of the company that had a headquarters in what English city?",
+    "answer": "London",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Old Bushmills Distillery",
+        "Diageo"
+      ],
+      "sent_id": [
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8b45765542995d1e6f1333",
+    "question": "What music school did the singer of The Search for Everything: Wave One attend?",
+    "answer": "Berklee College of Music",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "The Search for Everything: Wave One",
+        "John Mayer"
+      ],
+      "sent_id": [
+        0,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5ab6a8b5554299710c8d1f30",
+    "question": "Who commissioned the series of 12 monuments dedicated to the spirit of pioneer women along the Ocean-to-Ocean Highway?",
+    "answer": "the National Society of Daughters of the American Revolution",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Madonna of the Trail",
+        "Madonna of the Trail",
+        "National Old Trails Road"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ae5669755429960a22e02ec",
+    "question": "Which of the campaign that brought out the term Vichy Republican on social media was formally launched on June 16, 2015, at Trump Tower in New York City?",
+    "answer": "presidential campaign of Donald Trump",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Vichy Republican",
+        "Donald Trump presidential campaign, 2016"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a8b7cb95542995d1e6f13bb",
+    "question": "Which group of outlaws from the 1890s shares a name with a Yugoslav rock band?",
+    "answer": "Dalton Gang",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Daltoni",
+        "Dalton Gang"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ac31ad4554299741d48a1ee",
+    "question": "Are Ainslee's Magazine and The Australian Women's Weekly both monthly magazines?",
+    "answer": "yes",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Ainslee's Magazine",
+        "The Australian Women's Weekly"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a74f7f15542993748c89765",
+    "question": "When was the father of Princess Mafalda of Savoy born ?",
+    "answer": "11 November 1869",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Princess Mafalda of Savoy",
+        "Victor Emmanuel III of Italy"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5adc7f4a5542994650320d28",
+    "question": "How many cards can a player choose from to be part of their hand in the card game that was the culmination game of the United States Poker Championship?",
+    "answer": "seven",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "The United States Poker Championship",
+        "Texas hold 'em"
+      ],
+      "sent_id": [
+        2,
+        3
+      ]
+    }
+  },
+  {
+    "id": "5add1d575542992c1e3a2540",
+    "question": "What nationality was Oliver Reed's character in the film Royal Flash?",
+    "answer": "Prussian",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Royal Flash (film)",
+        "Royal Flash (film)",
+        "Otto von Bismarck"
+      ],
+      "sent_id": [
+        0,
+        2,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5ab1f13e554299449642c81c",
+    "question": "The documentary about the first direct challenge to teaching intelligent design first aired on what station?",
+    "answer": "aired on PBS stations",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Judgment Day: Intelligent Design on Trial",
+        "Judgment Day: Intelligent Design on Trial",
+        "Kitzmiller v. Dover Area School District"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a7633ff5542994ccc918712",
+    "question": "When was the Chief Aerodynamicist for the British supersonic land vehicle, whose goal is to match or exceed 1000 mph achieving a new world land speed record, born?",
+    "answer": "1932",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Ron Ayers",
+        "Bloodhound SSC",
+        "Bloodhound SSC"
+      ],
+      "sent_id": [
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5a7b48b15542995eb53be8eb",
+    "question": "These three apps that have similar functionality to Google for Education are compatible with what Microsoft file format?",
+    "answer": "Microsoft Office",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Google for Education",
+        "Google Docs, Sheets, and Slides"
+      ],
+      "sent_id": [
+        1,
+        2
+      ]
+    }
+  },
+  {
+    "id": "5ab5e13c5542992aa134a3bf",
+    "question": "What type of musician does Beau Bokan and Jason Scheff have in common?",
+    "answer": "singer",
+    "type": "comparison",
+    "supporting_facts": {
+      "title": [
+        "Beau Bokan",
+        "Jason Scheff"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  },
+  {
+    "id": "5a87d8215542994775f60800",
+    "question": "This American crime film set in South Los Angeles was written and directed by the same director and writer of screenwriter of \"Street Kings\", \"End of Watch\", \"Sabotage\", \"Fury\" and what other film? ",
+    "answer": "Suicide Squad",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Harsh Times",
+        "Harsh Times",
+        "David Ayer",
+        "David Ayer"
+      ],
+      "sent_id": [
+        0,
+        1,
+        0,
+        1
+      ]
+    }
+  },
+  {
+    "id": "5ade61fd554299728e26c704",
+    "question": "Get Off is an album by a group using which style originating in NYC in the early 1970s?",
+    "answer": "Disco",
+    "type": "bridge",
+    "supporting_facts": {
+      "title": [
+        "Get Off (Foxy album)",
+        "Disco"
+      ],
+      "sent_id": [
+        0,
+        0
+      ]
+    }
+  }
+]

@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+.env
+venv/
+src/
+src_backup/
+logs/backup
+logs/latest copy
+data/wiki_abstracts.jsonl
+data/hotpot_subset.jsonl
+data/enwiki-20171001-pages-meta-current-withlinks-abstracts/
+data/enwiki-20171001-pages-meta-current-withlinks-abstracts.tar.bz2
+qdrant_data_docker/
+.DS_Store
+.vscode/
+ingest_checkpoint.txt
