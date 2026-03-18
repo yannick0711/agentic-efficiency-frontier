@@ -12,8 +12,8 @@ Key Characteristics:
     - Multi-agent adversarial debate (4 turns)
     - Reduces sycophancy through role separation
     - Highest accuracy (58.4% F1) but expensive
-    - Stable crash rate (0.0%)
-    - Proves Architecture > Model Scale
+    - Highest accuracy (58.4% F1) but expensive
+    - Low crash rate (2.0%)
 
 Example:
     >>> from src_thesis.agent_network import NetworkAgent

@@ -8,9 +8,9 @@ Architecture:
     Query → Router (Confidence δ) → [Fast Path or Complex Path] → Answer
 
 Key Characteristics:
-    - Best ROI: 55.1% F1 at $0.00052 (31% cheaper than Network)
+    - Best ROI: 55.0% F1 at $0.00052 (31% cheaper than Network)
     - Confidence threshold δ=0.6 (calibrated via sensitivity analysis)
-    - Bimodal execution: 57% fast, 43% complex
+    - Bimodal execution: 59% fast, 41% complex
     - Lowest variance (σ=2.89%) - most stable architecture
 
 Example:

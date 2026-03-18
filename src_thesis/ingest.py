@@ -345,6 +345,6 @@ if __name__ == "__main__":
     - Save checkpoints every 1000 documents
     
     Estimated time: 3-4 hours for 5.2M documents
-    Estimated cost: ~$100-150 for embeddings
+    Estimated cost: ~$20 for embeddings
     """
     ingest_wiki()

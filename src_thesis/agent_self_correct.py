@@ -11,8 +11,8 @@ Key Characteristics:
     - Iterative self-improvement loop
     - Catches hallucinations before output
     - High accuracy (57.3% F1) but unstable
-    - Highest crash rate (6.5%) due to infinite critique loops
-    - Strict format enforcement to prevent loops
+    - High accuracy (57.3% F1) but unstable
+    - Significant crash rate (6.7%) due to infinite critique loops
 
 Example:
     >>> from src_thesis.agent_self_correct import SelfCorrectAgent
