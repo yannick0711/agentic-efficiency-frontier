@@ -333,6 +333,27 @@ python -m src_thesis.agent_react
 # etc.
 ```
 
+When running agents individually (not via `run_all.py`), results are saved to `logs/latest/` by default.
+
+**Evaluate results and generate plots:**
+
+After running the agents, use the evaluation scripts to generate metrics, visualizations, and error analysis:
+
+```bash
+# Generate comparative metrics table and 6 visualisation plots
+python -m src_thesis.evaluate_results
+
+# Run failure mode classification (retrieval vs. reasoning vs. crash)
+python -m src_thesis.analyze_failure_modes
+```
+
+By default, both scripts read from `logs/latest/`. If you used `run_all.py`, results are in a timestamped folder (e.g., `logs/run_20260214_143052/`). To point the evaluation scripts at a specific run:
+
+```bash
+THESIS_RUN_ID=run_20260214_143052 python -m src_thesis.evaluate_results
+THESIS_RUN_ID=run_20260214_143052 python -m src_thesis.analyze_failure_modes
+```
+
 ---
 
 ## 📊 Results & Analysis
